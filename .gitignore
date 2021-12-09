@@ -1,0 +1,9 @@
+.env
+.env.staging
+.env.prod
+.env.production
+log
+public
+node_modules
+sessions
+temp

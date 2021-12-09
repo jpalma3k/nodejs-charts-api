@@ -1,0 +1,6 @@
+nodeProcessCommandLine: "D:\home\site\custom_nodejs\node.exe"
+loggingEnabled: true
+devErrorsEnabled: false
+node_env: "production"
+debuggingEnabled: true
+appendToExistingLog: true
